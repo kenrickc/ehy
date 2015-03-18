@@ -12,5 +12,13 @@
     "start": "node server.js"
   },
   "author": "Kenrick Chan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kenrickc/ehy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kenrickc/ehy/issues"
+  },
+  "homepage": "https://github.com/kenrickc/ehy"
 }
