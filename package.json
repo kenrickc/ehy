@@ -1,0 +1,16 @@
+{
+  "name": "ehy",
+  "version": "0.0.0",
+  "description": "Restaurant Reservations",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kenrick Chan",
+  "license": "ISC"
+}
