@@ -4,7 +4,8 @@
   "description": "Restaurant Reservations",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "pg": "4.x"
   },
   "devDependencies": {},
   "scripts": {
